@@ -34,8 +34,6 @@ void Dijkstra(int g[V][V], int src)
    }
    shortest_path(dist, V);
 }
-
-
 int main()
 {
       ios_base::sync_with_stdio(false);
